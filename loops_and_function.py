@@ -1,4 +1,4 @@
-'''
+
 i=5
 while i>=0:
     print(i)
@@ -47,7 +47,6 @@ while True:
         break
     else:
         print("Invalid Input! Please enter a valid age value.")
-'''
 
 for i in range (1,11):
     if i%2==0:
