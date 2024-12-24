@@ -1,4 +1,4 @@
-'''
+
 import pandas as pd
 import numpy as np
 
@@ -24,7 +24,7 @@ print(df)
 df.rename(index={0:"First",1:"Second",2:"Third",3:"Fourth"},inplace=True)
 print(df)
 
-'''
+
 
 #=============================================#
 # New code Script
